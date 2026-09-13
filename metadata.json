@@ -1,0 +1,7 @@
+{
+  "name": "KinePost - Spatial-Temporal Postural Analysis",
+  "description": "Clinical multi-angle spatial posture analyzer with high-differential biomechanical tracking, step-by-slide diagnostic presentation, and expert corrective recommendations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
