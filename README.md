@@ -1,5 +1,9 @@
 # KinePost 🪑⚡
 
+> **Status: design reference.** The working, local-only camera helper is the Body app in
+> [Deep Work Assistant](https://github.com/hermz580/deep-work-assistant) (DWA OS). Without a Gemini key this
+> scaffold returns sample analyses, not measurements. See [DWA_INTEGRATION.md](DWA_INTEGRATION.md).
+
 **Computer Vision & High-Differential Biomechanical Posture Analysis for Developers & Knowledge Workers**
 
 KinePost is an ergonomics and computer vision application designed specifically for coders, remote professionals, and desk workers. It transforms standard laptop or desktop webcams into a calibrated biomechanical diagnostic studio.
